@@ -1,7 +1,7 @@
 var RealSubject = /** @class */ (function () {
     function RealSubject() {
         // hypothetically enormous amounts of data
-        this.enormousData = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+        this.enormousData = [1, 2, 3, 4, 5, 6, 7, 8, 9, 78];
     }
     RealSubject.prototype.request = function () {
         return this.enormousData;
